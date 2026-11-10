@@ -9,4 +9,4 @@ I am a **Python & Web3 Developer** specializing in blockchain automation, on-cha
 * Develop high-throughput multi-chain data indexers (Ethereum, Base, Arbitrum)
 * Automate custom workflows via Web2/Web3 APIs
 
-📫 **Let's build something together:** You can reach me here via GitHub or open an issue on my repositories!
+📫 **Let's build something together:** You can reach me here via GitHub or @btctrl via Telegram
