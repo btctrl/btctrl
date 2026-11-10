@@ -1,6 +1,6 @@
 ### Hi there, I'm btctrl-labs 👋 ###
 
-I am a **Python & Web3 Engineer** and **Former Crypto Founder** with over 5 years of hands-on experience. specializing in blockchain automation, on-chain data indexing, and backend integrations. 
+I am a **Python & Web3 Engineer** and **Former Founder** with over 5 years of hands-on experience. specializing in blockchain automation, on-chain data indexing, and backend integrations. 
 I bridge the gap between Web2 infrastructure and Web3 networks. Having run my own crypto startup for 3 years, I combine technical expertise with a strong understanding of business-critical data reliability and product architecture.
 
 🛠️ **Core Tech Stack:** Python | web3.py | asyncio | PostgreSQL | Docker | Linux
