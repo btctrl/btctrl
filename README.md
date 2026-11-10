@@ -10,6 +10,6 @@ I bridge the gap between Web2 infrastructure and Web3 networks. Having run my ow
 * **Production-Grade Data Pipelines:** High-throughput multi-chain indexing (Ethereum, Base, Arbitrum) built for stability.
 * **Enterprise Bridges:** Connecting legacy Web2 architectures and internal databases with decentralized smart contracts.
 
-💼 **Background:** 3+ years in Python development | 3 years running a commercial Web3 startup.
+💼 **Background:** 3+ years in Python development | 3 years running a commercial Web3 startup located in Switzerland.
 
 
